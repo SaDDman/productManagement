@@ -1,0 +1,2 @@
+Customer ID: 0
+Price: 0$
